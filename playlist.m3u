@@ -4,34 +4,34 @@
 # 🇧🇷 FUTEBOL BRASIL
 # ================================
 
-#EXTINF:-1 tvg-name="Premiere 1" tvg-logo="URL_LOGO_PNG" group-title="🇧🇷 Premiere",Premiere 1
+#EXTINF:-1 tvg-name="Premiere 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Premiere_%282017%29_logo.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="🇧🇷 Premiere",Premiere 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-name="Premiere 2" tvg-logo="URL_LOGO_PNG" group-title="🇧🇷 Premiere",Premiere 2
+#EXTINF:-1 tvg-name="Premiere 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Premiere_%282017%29_logo.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="🇧🇷 Premiere",Premiere 2
 URL_DO_STREAM_AUTORIZADO
 
-#EXTINF:-1 tvg-name="Premiere 3" tvg-logo="URL_LOGO_PNG" group-title="🇧🇷 Premiere",Premiere 3
+#EXTINF:-1 tvg-name="Premiere 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Premiere_%282017%29_logo.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="🇧🇷 Premiere",Premiere 3
 URL_DO_STREAM_AUTORIZADO
 
-#EXTINF:-1 tvg-name="Premiere 4" tvg-logo="URL_LOGO_PNG" group-title="🇧🇷 Premiere",Premiere 4
+#EXTINF:-1 tvg-name="Premiere 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Premiere_%282017%29_logo.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="🇧🇷 Premiere",Premiere 4
 URL_DO_STREAM_AUTORIZADO
 
-#EXTINF:-1 tvg-name="Premiere 5" tvg-logo="URL_LOGO_PNG" group-title="🇧🇷 Premiere",Premiere 5
+#EXTINF:-1 tvg-name="Premiere 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Premiere_%282017%29_logo.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="🇧🇷 Premiere",Premiere 5
 URL_DO_STREAM_AUTORIZADO
 
-#EXTINF:-1 tvg-name="Premiere 6" tvg-logo="URL_LOGO_PNG" group-title="🇧🇷 Premiere",Premiere 6
+#EXTINF:-1 tvg-name="Premiere 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Premiere_%282017%29_logo.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="🇧🇷 Premiere",Premiere 6
 URL_DO_STREAM_AUTORIZADO
 
-#EXTINF:-1 tvg-name="Premiere 7" tvg-logo="URL_LOGO_PNG" group-title="🇧🇷 Premiere",Premiere 7
+#EXTINF:-1 tvg-name="Premiere 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Premiere_%282017%29_logo.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="🇧🇷 Premiere",Premiere 7
 URL_DO_STREAM_AUTORIZADO
 
-#EXTINF:-1 tvg-name="SporTV" tvg-logo="URL_LOGO_PNG" group-title="🇧🇷 Futebol Brasil",SporTV
+#EXTINF:-1 tvg-name="SporTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQom3HZQVBD8ShNDMWaDuClZgN7MhSN8kYd5c4NpfVm&s" group-title="🇧🇷 Futebol Brasil",SporTV
 URL_DO_STREAM_AUTORIZADO
 
-#EXTINF:-1 tvg-name="SporTV 2" tvg-logo="URL_LOGO_PNG" group-title="🇧🇷 Futebol Brasil",SporTV 2
+#EXTINF:-1 tvg-name="SporTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="🇧🇷 Futebol Brasil",SporTV 2
 URL_DO_STREAM_AUTORIZADO
 
-#EXTINF:-1 tvg-name="SporTV 3" tvg-logo="URL_LOGO_PNG" group-title="🇧🇷 Futebol Brasil",SporTV 3
+#EXTINF:-1 tvg-name="SporTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="🇧🇷 Futebol Brasil",SporTV 3
 URL_DO_STREAM_AUTORIZADO
 
 
@@ -39,10 +39,10 @@ URL_DO_STREAM_AUTORIZADO
 # 🟢 PALMEIRAS
 # ================================
 
-#EXTINF:-1 tvg-name="Jogos do Palmeiras" tvg-logo="URL_LOGO_PNG" group-title="🟢 Palmeiras",Jogos do Palmeiras
+#EXTINF:-1 tvg-name="Jogos do Palmeiras" tvg-logo="https://palmeirasonline.com/wp-content/uploads/2019/04/aovivo_chamada_noticia-696x385.jpg" group-title="🟢 Palmeiras",Jogos do Palmeiras
 URL_DO_STREAM_AUTORIZADO
 
-#EXTINF:-1 tvg-name="Palmeiras TV" tvg-logo="URL_LOGO_PNG" group-title="🟢 Palmeiras",Palmeiras TV
+#EXTINF:-1 tvg-name="Palmeiras TV" tvg-logo="https://yt3.googleusercontent.com/3k1cpARTWNHeE3kXXX8n8N2hBJX0wkwqmG9jm6o9n8R-aDVGnbxn9SGu76wjf-nh79k0yvLW2w=s900-c-k-c0x00ffffff-no-rj" group-title="🟢 Palmeiras",Palmeiras TV
 URL_DO_STREAM_AUTORIZADO
 
 
@@ -50,16 +50,16 @@ URL_DO_STREAM_AUTORIZADO
 # 📺 ESPN
 # ================================
 
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="URL_LOGO_PNG" group-title="📺 ESPN",ESPN
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="📺 ESPN",ESPN
 URL_DO_STREAM_AUTORIZADO
 
-#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="URL_LOGO_PNG" group-title="📺 ESPN",ESPN 2
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAd9l2wEQm3KY3eTEsNSefJaQMyBG-PAVLdpRXsNJL7g&s" group-title="📺 ESPN",ESPN 2
 URL_DO_STREAM_AUTORIZADO
 
-#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="URL_LOGO_PNG" group-title="📺 ESPN",ESPN 3
+#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="📺 ESPN",ESPN 3
 URL_DO_STREAM_AUTORIZADO
 
-#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="URL_LOGO_PNG" group-title="📺 ESPN",ESPN 4
+#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="📺 ESPN",ESPN 4
 URL_DO_STREAM_AUTORIZADO
 
 
@@ -67,33 +67,23 @@ URL_DO_STREAM_AUTORIZADO
 # 🔴 TNT SPORTS
 # ================================
 
-#EXTINF:-1 tvg-name="TNT Sports" tvg-logo="URL_LOGO_PNG" group-title="🔴 TNT Sports",TNT Sports
+#EXTINF:-1 tvg-name="TNT Sports" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/3840px-TNT_Sports_%282023%29.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="🔴 TNT Sports",TNT Sports
 URL_DO_STREAM_AUTORIZADO
 
-#EXTINF:-1 tvg-name="TNT Sports 2" tvg-logo="URL_LOGO_PNG" group-title="🔴 TNT Sports",TNT Sports 2
+#EXTINF:-1 tvg-name="TNT Sports 2" tvg-logo="https://media.info/l/o/1/1540.1689778042.png" group-title="🔴 TNT Sports",TNT Sports 2
 URL_DO_STREAM_AUTORIZADO
 
-#EXTINF:-1 tvg-name="TNT Sports 3" tvg-logo="URL_LOGO_PNG" group-title="🔴 TNT Sports",TNT Sports 3
+#EXTINF:-1 tvg-name="TNT Sports 3" tvg-logo="https://media.info/l/o/1/1540.1689778042.png" group-title="🔴 TNT Sports",TNT Sports 3
 URL_DO_STREAM_AUTORIZADO
-
-#EXTINF:-1 tvg-name="TNT Sports 4" tvg-logo="URL_LOGO_PNG" group-title="🔴 TNT Sports",TNT Sports 4
-URL_DO_STREAM_AUTORIZADO
-
 
 # ================================
 # 🎬 MAX / HBO
 # ================================
 
-#EXTINF:-1 tvg-name="Max Futebol 1" tvg-logo="URL_LOGO_PNG" group-title="🎬 Max / HBO",Max Futebol 1
+#EXTINF:-1 tvg-name="Max Futebol 1" tvg-logo="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/01/max-novo-streaming.png?w=1200&h=900&crop=1" group-title="🎬 Max / HBO",Max Futebol 1
 URL_DO_STREAM_AUTORIZADO
 
-#EXTINF:-1 tvg-name="Max Futebol 2" tvg-logo="URL_LOGO_PNG" group-title="🎬 Max / HBO",Max Futebol 2
-URL_DO_STREAM_AUTORIZADO
-
-#EXTINF:-1 tvg-name="Max Futebol 3" tvg-logo="URL_LOGO_PNG" group-title="🎬 Max / HBO",Max Futebol 3
-URL_DO_STREAM_AUTORIZADO
-
-#EXTINF:-1 tvg-name="Max Futebol 4" tvg-logo="URL_LOGO_PNG" group-title="🎬 Max / HBO",Max Futebol 4
+#EXTINF:-1 tvg-name="Max Futebol 2" tvg-logo="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/01/max-novo-streaming.png?w=1200&h=900&crop=1" group-title="🎬 Max / HBO",Max Futebol 2
 URL_DO_STREAM_AUTORIZADO
 
 
@@ -101,16 +91,13 @@ URL_DO_STREAM_AUTORIZADO
 # 🔵 PARAMOUNT+
 # ================================
 
-#EXTINF:-1 tvg-name="Paramount+ Futebol 1" tvg-logo="URL_LOGO_PNG" group-title="🔵 Paramount+",Paramount+ Futebol 1
+#EXTINF:-1 tvg-name="Paramount+ Futebol 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Paramount%2B_logo.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="🔵 Paramount+",Paramount+ Futebol 1
 URL_DO_STREAM_AUTORIZADO
 
-#EXTINF:-1 tvg-name="Paramount+ Futebol 2" tvg-logo="URL_LOGO_PNG" group-title="🔵 Paramount+",Paramount+ Futebol 2
+#EXTINF:-1 tvg-name="Paramount+ Futebol 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Paramount%2B_logo.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="🔵 Paramount+",Paramount+ Futebol 2
 URL_DO_STREAM_AUTORIZADO
 
-#EXTINF:-1 tvg-name="Paramount+ Futebol 3" tvg-logo="URL_LOGO_PNG" group-title="🔵 Paramount+",Paramount+ Futebol 3
-URL_DO_STREAM_AUTORIZADO
-
-#EXTINF:-1 tvg-name="Paramount+ Futebol 4" tvg-logo="URL_LOGO_PNG" group-title="🔵 Paramount+",Paramount+ Futebol 4
+#EXTINF:-1 tvg-name="Paramount+ Futebol 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Paramount%2B_logo.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="🔵 Paramount+",Paramount+ Futebol 3
 URL_DO_STREAM_AUTORIZADO
 
 
@@ -118,16 +105,16 @@ URL_DO_STREAM_AUTORIZADO
 # 🇬🇧 INGLATERRA
 # ================================
 
-#EXTINF:-1 tvg-name="Premier League" tvg-logo="URL_LOGO_PNG" group-title="🇬🇧 Inglaterra",Premier League
+#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqGmNh9KO-BKK0j1lfxrBxPUXMebzp66U3BaoPV38nnJBA9l4jOkGHmP8&s=10" group-title="🇬🇧 Inglaterra",Premier League
 URL_DO_STREAM_AUTORIZADO
 
-#EXTINF:-1 tvg-name="Premier League 2" tvg-logo="URL_LOGO_PNG" group-title="🇬🇧 Inglaterra",Premier League 2
+#EXTINF:-1 tvg-name="Premier League 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqGmNh9KO-BKK0j1lfxrBxPUXMebzp66U3BaoPV38nnJBA9l4jOkGHmP8&s=10" group-title="🇬🇧 Inglaterra",Premier League 2
 URL_DO_STREAM_AUTORIZADO
 
-#EXTINF:-1 tvg-name="Sky Sports Football" tvg-logo="URL_LOGO_PNG" group-title="🇬🇧 Inglaterra",Sky Sports Football
+#EXTINF:-1 tvg-name="Sky Sports Football" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sky_Sport_Football_-_Logo_2018.svg/3840px-Sky_Sport_Football_-_Logo_2018.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="🇬🇧 Inglaterra",Sky Sports Football
 URL_DO_STREAM_AUTORIZADO
 
-#EXTINF:-1 tvg-name="TNT Sports UK" tvg-logo="URL_LOGO_PNG" group-title="🇬🇧 Inglaterra",TNT Sports UK
+#EXTINF:-1 tvg-name="TNT Sports UK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-AHjHjjNRXp_pUn49HihDUzt4EMw3hr9NcAk7c1X92A&s=10" group-title="🇬🇧 Inglaterra",TNT Sports UK
 URL_DO_STREAM_AUTORIZADO
 
 
@@ -135,13 +122,13 @@ URL_DO_STREAM_AUTORIZADO
 # 🇪🇸 ESPANHA
 # ================================
 
-#EXTINF:-1 tvg-name="LALIGA" tvg-logo="URL_LOGO_PNG" group-title="🇪🇸 Espanha",LALIGA
+#EXTINF:-1 tvg-name="LALIGA" tvg-logo="https://static.wixstatic.com/media/6464b3_d181027c5aa24ba9aeee7151dbe90284~mv2.jpg/v1/fill/w_568,h_322,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/6464b3_d181027c5aa24ba9aeee7151dbe90284~mv2.jpg" group-title="🇪🇸 Espanha",LALIGA
 URL_DO_STREAM_AUTORIZADO
 
-#EXTINF:-1 tvg-name="LALIGA 2" tvg-logo="URL_LOGO_PNG" group-title="🇪🇸 Espanha",LALIGA 2
+#EXTINF:-1 tvg-name="LALIGA 2" tvg-logo="https://static.wixstatic.com/media/6464b3_d181027c5aa24ba9aeee7151dbe90284~mv2.jpg/v1/fill/w_568,h_322,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/6464b3_d181027c5aa24ba9aeee7151dbe90284~mv2.jpg" group-title="🇪🇸 Espanha",LALIGA 2
 URL_DO_STREAM_AUTORIZADO
 
-#EXTINF:-1 tvg-name="Movistar Fútbol" tvg-logo="URL_LOGO_PNG" group-title="🇪🇸 Espanha",Movistar Fútbol
+#EXTINF:-1 tvg-name="Movistar Fútbol" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRioY9M7Qr-4sXGHYUIe0vFh1RD6fBJ4M5vYuy0majrng&s=10" group-title="🇪🇸 Espanha",Movistar Fútbol
 URL_DO_STREAM_AUTORIZADO
 
 
@@ -152,12 +139,6 @@ URL_DO_STREAM_AUTORIZADO
 #EXTINF:-1 tvg-name="Serie A" tvg-logo="URL_LOGO_PNG" group-title="🇮🇹 Itália",Serie A
 URL_DO_STREAM_AUTORIZADO
 
-#EXTINF:-1 tvg-name="DAZN Italia" tvg-logo="URL_LOGO_PNG" group-title="🇮🇹 Itália",DAZN Italia
-URL_DO_STREAM_AUTORIZADO
-
-#EXTINF:-1 tvg-name="Sky Sport Calcio" tvg-logo="URL_LOGO_PNG" group-title="🇮🇹 Itália",Sky Sport Calcio
-URL_DO_STREAM_AUTORIZADO
-
 
 # ================================
 # 🇩🇪 ALEMANHA
@@ -166,16 +147,11 @@ URL_DO_STREAM_AUTORIZADO
 #EXTINF:-1 tvg-name="Bundesliga" tvg-logo="URL_LOGO_PNG" group-title="🇩🇪 Alemanha",Bundesliga
 URL_DO_STREAM_AUTORIZADO
 
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga" tvg-logo="URL_LOGO_PNG" group-title="🇩🇪 Alemanha",Sky Sport Bundesliga
-URL_DO_STREAM_AUTORIZADO
-
 
 # ================================
 # 🇫🇷 FRANÇA
 # ================================
 
-#EXTINF:-1 tvg-name="Ligue 1" tvg-logo="URL_LOGO_PNG" group-title="🇫🇷 França",Ligue 1
-URL_DO_STREAM_AUTORIZADO
 
 #EXTINF:-1 tvg-name="beIN Sports France" tvg-logo="URL_LOGO_PNG" group-title="🇫🇷 França",beIN Sports France
 URL_DO_STREAM_AUTORIZADO
@@ -194,7 +170,7 @@ URL_DO_STREAM_AUTORIZADO
 #EXTINF:-1 tvg-name="Liga Argentina" tvg-logo="URL_LOGO_PNG" group-title="🌎 América do Sul",Liga Argentina
 URL_DO_STREAM_AUTORIZADO
 
-#EXTINF:-1 tvg-name="Fútbol Argentino" tvg-logo="URL_LOGO_PNG" group-title="🌎 América do Sul",Fútbol Argentino
+#EXTINF:-1 tvg-name="Fox Sports Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Fox_Sports_Argentina_2026.webp?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="🌎 América do Sul",Fox Sports Argentino
 URL_DO_STREAM_AUTORIZADO
 
 
