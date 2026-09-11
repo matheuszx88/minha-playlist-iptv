@@ -1,1 +1,280 @@
+#EXTM3U
 
+# ================================
+# 🇧🇷 FUTEBOL BRASIL
+# ================================
+
+#EXTINF:-1 tvg-name="Premiere 1" tvg-logo="URL_LOGO_PNG" group-title="🇧🇷 Premiere",Premiere 1
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="Premiere 2" tvg-logo="URL_LOGO_PNG" group-title="🇧🇷 Premiere",Premiere 2
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="Premiere 3" tvg-logo="URL_LOGO_PNG" group-title="🇧🇷 Premiere",Premiere 3
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="Premiere 4" tvg-logo="URL_LOGO_PNG" group-title="🇧🇷 Premiere",Premiere 4
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="Premiere 5" tvg-logo="URL_LOGO_PNG" group-title="🇧🇷 Premiere",Premiere 5
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="Premiere 6" tvg-logo="URL_LOGO_PNG" group-title="🇧🇷 Premiere",Premiere 6
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="Premiere 7" tvg-logo="URL_LOGO_PNG" group-title="🇧🇷 Premiere",Premiere 7
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="SporTV" tvg-logo="URL_LOGO_PNG" group-title="🇧🇷 Futebol Brasil",SporTV
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="SporTV 2" tvg-logo="URL_LOGO_PNG" group-title="🇧🇷 Futebol Brasil",SporTV 2
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="SporTV 3" tvg-logo="URL_LOGO_PNG" group-title="🇧🇷 Futebol Brasil",SporTV 3
+URL_DO_STREAM_AUTORIZADO
+
+
+# ================================
+# 🟢 PALMEIRAS
+# ================================
+
+#EXTINF:-1 tvg-name="Jogos do Palmeiras" tvg-logo="URL_LOGO_PNG" group-title="🟢 Palmeiras",Jogos do Palmeiras
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="Palmeiras TV" tvg-logo="URL_LOGO_PNG" group-title="🟢 Palmeiras",Palmeiras TV
+URL_DO_STREAM_AUTORIZADO
+
+
+# ================================
+# 📺 ESPN
+# ================================
+
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="URL_LOGO_PNG" group-title="📺 ESPN",ESPN
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="URL_LOGO_PNG" group-title="📺 ESPN",ESPN 2
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="URL_LOGO_PNG" group-title="📺 ESPN",ESPN 3
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="URL_LOGO_PNG" group-title="📺 ESPN",ESPN 4
+URL_DO_STREAM_AUTORIZADO
+
+
+# ================================
+# 🔴 TNT SPORTS
+# ================================
+
+#EXTINF:-1 tvg-name="TNT Sports" tvg-logo="URL_LOGO_PNG" group-title="🔴 TNT Sports",TNT Sports
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="TNT Sports 2" tvg-logo="URL_LOGO_PNG" group-title="🔴 TNT Sports",TNT Sports 2
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="TNT Sports 3" tvg-logo="URL_LOGO_PNG" group-title="🔴 TNT Sports",TNT Sports 3
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="TNT Sports 4" tvg-logo="URL_LOGO_PNG" group-title="🔴 TNT Sports",TNT Sports 4
+URL_DO_STREAM_AUTORIZADO
+
+
+# ================================
+# 🎬 MAX / HBO
+# ================================
+
+#EXTINF:-1 tvg-name="Max Futebol 1" tvg-logo="URL_LOGO_PNG" group-title="🎬 Max / HBO",Max Futebol 1
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="Max Futebol 2" tvg-logo="URL_LOGO_PNG" group-title="🎬 Max / HBO",Max Futebol 2
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="Max Futebol 3" tvg-logo="URL_LOGO_PNG" group-title="🎬 Max / HBO",Max Futebol 3
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="Max Futebol 4" tvg-logo="URL_LOGO_PNG" group-title="🎬 Max / HBO",Max Futebol 4
+URL_DO_STREAM_AUTORIZADO
+
+
+# ================================
+# 🔵 PARAMOUNT+
+# ================================
+
+#EXTINF:-1 tvg-name="Paramount+ Futebol 1" tvg-logo="URL_LOGO_PNG" group-title="🔵 Paramount+",Paramount+ Futebol 1
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="Paramount+ Futebol 2" tvg-logo="URL_LOGO_PNG" group-title="🔵 Paramount+",Paramount+ Futebol 2
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="Paramount+ Futebol 3" tvg-logo="URL_LOGO_PNG" group-title="🔵 Paramount+",Paramount+ Futebol 3
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="Paramount+ Futebol 4" tvg-logo="URL_LOGO_PNG" group-title="🔵 Paramount+",Paramount+ Futebol 4
+URL_DO_STREAM_AUTORIZADO
+
+
+# ================================
+# 🇬🇧 INGLATERRA
+# ================================
+
+#EXTINF:-1 tvg-name="Premier League" tvg-logo="URL_LOGO_PNG" group-title="🇬🇧 Inglaterra",Premier League
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="Premier League 2" tvg-logo="URL_LOGO_PNG" group-title="🇬🇧 Inglaterra",Premier League 2
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="Sky Sports Football" tvg-logo="URL_LOGO_PNG" group-title="🇬🇧 Inglaterra",Sky Sports Football
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="TNT Sports UK" tvg-logo="URL_LOGO_PNG" group-title="🇬🇧 Inglaterra",TNT Sports UK
+URL_DO_STREAM_AUTORIZADO
+
+
+# ================================
+# 🇪🇸 ESPANHA
+# ================================
+
+#EXTINF:-1 tvg-name="LALIGA" tvg-logo="URL_LOGO_PNG" group-title="🇪🇸 Espanha",LALIGA
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="LALIGA 2" tvg-logo="URL_LOGO_PNG" group-title="🇪🇸 Espanha",LALIGA 2
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="Movistar Fútbol" tvg-logo="URL_LOGO_PNG" group-title="🇪🇸 Espanha",Movistar Fútbol
+URL_DO_STREAM_AUTORIZADO
+
+
+# ================================
+# 🇮🇹 ITÁLIA
+# ================================
+
+#EXTINF:-1 tvg-name="Serie A" tvg-logo="URL_LOGO_PNG" group-title="🇮🇹 Itália",Serie A
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="DAZN Italia" tvg-logo="URL_LOGO_PNG" group-title="🇮🇹 Itália",DAZN Italia
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="Sky Sport Calcio" tvg-logo="URL_LOGO_PNG" group-title="🇮🇹 Itália",Sky Sport Calcio
+URL_DO_STREAM_AUTORIZADO
+
+
+# ================================
+# 🇩🇪 ALEMANHA
+# ================================
+
+#EXTINF:-1 tvg-name="Bundesliga" tvg-logo="URL_LOGO_PNG" group-title="🇩🇪 Alemanha",Bundesliga
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga" tvg-logo="URL_LOGO_PNG" group-title="🇩🇪 Alemanha",Sky Sport Bundesliga
+URL_DO_STREAM_AUTORIZADO
+
+
+# ================================
+# 🇫🇷 FRANÇA
+# ================================
+
+#EXTINF:-1 tvg-name="Ligue 1" tvg-logo="URL_LOGO_PNG" group-title="🇫🇷 França",Ligue 1
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="beIN Sports France" tvg-logo="URL_LOGO_PNG" group-title="🇫🇷 França",beIN Sports France
+URL_DO_STREAM_AUTORIZADO
+
+
+# ================================
+# 🌎 AMÉRICA DO SUL
+# ================================
+
+#EXTINF:-1 tvg-name="Libertadores" tvg-logo="URL_LOGO_PNG" group-title="🌎 América do Sul",Libertadores
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="Sul-Americana" tvg-logo="URL_LOGO_PNG" group-title="🌎 América do Sul",Sul-Americana
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="Liga Argentina" tvg-logo="URL_LOGO_PNG" group-title="🌎 América do Sul",Liga Argentina
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="Fútbol Argentino" tvg-logo="URL_LOGO_PNG" group-title="🌎 América do Sul",Fútbol Argentino
+URL_DO_STREAM_AUTORIZADO
+
+
+# ================================
+# 🌍 CHAMPIONS / EUROPA
+# ================================
+
+#EXTINF:-1 tvg-name="UEFA Champions League" tvg-logo="URL_LOGO_PNG" group-title="🌍 Europa",UEFA Champions League
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="UEFA Europa League" tvg-logo="URL_LOGO_PNG" group-title="🌍 Europa",UEFA Europa League
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="UEFA Conference League" tvg-logo="URL_LOGO_PNG" group-title="🌍 Europa",UEFA Conference League
+URL_DO_STREAM_AUTORIZADO
+
+
+# ================================
+# 🇺🇸 ESTADOS UNIDOS
+# ================================
+
+#EXTINF:-1 tvg-name="MLS" tvg-logo="URL_LOGO_PNG" group-title="🇺🇸 EUA",MLS
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="MLS Season Pass" tvg-logo="URL_LOGO_PNG" group-title="🇺🇸 EUA",MLS Season Pass
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="FOX Soccer" tvg-logo="URL_LOGO_PNG" group-title="🇺🇸 EUA",FOX Soccer
+URL_DO_STREAM_AUTORIZADO
+
+
+# ================================
+# 🌐 INTERNACIONAIS
+# ================================
+
+#EXTINF:-1 tvg-name="beIN Sports 1" tvg-logo="URL_LOGO_PNG" group-title="🌐 Internacional",beIN Sports 1
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="beIN Sports 2" tvg-logo="URL_LOGO_PNG" group-title="🌐 Internacional",beIN Sports 2
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="beIN Sports 3" tvg-logo="URL_LOGO_PNG" group-title="🌐 Internacional",beIN Sports 3
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="beIN Sports 4" tvg-logo="URL_LOGO_PNG" group-title="🌐 Internacional",beIN Sports 4
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="DAZN Football" tvg-logo="URL_LOGO_PNG" group-title="🌐 Internacional",DAZN Football
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="OneFootball" tvg-logo="URL_LOGO_PNG" group-title="🌐 Internacional",OneFootball
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="URL_LOGO_PNG" group-title="🌐 Internacional",FIFA+
+URL_DO_STREAM_AUTORIZADO
+
+
+# ================================
+# 🏆 SELEÇÕES
+# ================================
+
+#EXTINF:-1 tvg-name="Futebol Internacional" tvg-logo="URL_LOGO_PNG" group-title="🏆 Seleções",Futebol Internacional
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="UEFA Nations League" tvg-logo="URL_LOGO_PNG" group-title="🏆 Seleções",UEFA Nations League
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="Copa do Mundo" tvg-logo="URL_LOGO_PNG" group-title="🏆 Seleções",Copa do Mundo
+URL_DO_STREAM_AUTORIZADO
+
+
+# ================================
+# ⚽ FUTEBOL 24H
+# ================================
+
+#EXTINF:-1 tvg-name="Futebol 24H 1" tvg-logo="URL_LOGO_PNG" group-title="⚽ Futebol 24H",Futebol 24H 1
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="Futebol 24H 2" tvg-logo="URL_LOGO_PNG" group-title="⚽ Futebol 24H",Futebol 24H 2
+URL_DO_STREAM_AUTORIZADO
+
+#EXTINF:-1 tvg-name="Futebol 24H 3" tvg-logo="URL_LOGO_PNG" group-title="⚽ Futebol 24H",Futebol 24H 3
+URL_DO_STREAM_AUTORIZADO
